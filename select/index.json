@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "空に歌えば - Sora Ni Utaeba",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-10T08:33:14.953950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空に歌えば",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/01_空に歌えば_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空に歌えば",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_空に歌えば_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空に歌えば",
+      "artist": "緑黄色社会",
+      "has_synced": true,
+      "path": "select/03_空に歌えば_緑黄色社会.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空に歌えば（TV edit.）",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_空に歌えば(TV_edit.)_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空に歌えば -TV edit.-",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_空に歌えば_-TV_edit.-_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "空に歌えば (TV edit.)",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/06_空に歌えば_(TV_edit.)_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空に歌えば",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_空に歌えば_amazarashi.txt"
+    }
+  ]
+}
